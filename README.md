@@ -18,7 +18,7 @@ A curated Claude Code setup script based on [everything-claude-code](https://git
 | Skills | 22 | Language-agnostic only |
 | Hooks | 1 | `hooks.json` |
 | Contexts | 3 | `dev`, `research`, `review` |
-| MCP Servers | 15 | See list below |
+| MCP Servers | 9 | See list below |
 
 ### Agents
 `planner` · `architect` · `code-reviewer` · `security-reviewer` · `tdd-guide` · `build-error-resolver` · `refactor-cleaner` · `doc-updater` · `database-reviewer` · `e2e-runner` · `chief-of-staff`
