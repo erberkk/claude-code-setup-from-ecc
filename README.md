@@ -12,13 +12,13 @@ A curated Claude Code setup script based on [everything-claude-code](https://git
 
 | Category | Count | Notes |
 |----------|-------|-------|
-| Rules | 9 | `common/` only — language-agnostic |
-| Agents | 11 | No Go-specific agents |
-| Commands | 19 | Includes multi/parallel commands |
-| Skills | 22 | Language-agnostic only |
+| Rules | 9 |
+| Agents | 11 |
+| Commands | 19 |
+| Skills | 22 |
 | Hooks | 1 | `hooks.json` |
 | Contexts | 3 | `dev`, `research`, `review` |
-| MCP Servers | 9 | See list below |
+| MCP Servers | 9 |
 
 ### Agents
 `planner` · `architect` · `code-reviewer` · `security-reviewer` · `tdd-guide` · `build-error-resolver` · `refactor-cleaner` · `doc-updater` · `database-reviewer` · `e2e-runner` · `chief-of-staff`
