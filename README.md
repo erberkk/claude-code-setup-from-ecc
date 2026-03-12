@@ -40,7 +40,6 @@ A curated Claude Code setup script based on [everything-claude-code](https://git
 | vercel | http | — |
 | supabase | npx | `SUPABASE_PROJECT_REF` |
 | magic | npx | — |
-| firecrawl | npx | `FIRECRAWL_API_KEY` *(optional)* |
 | exa-web-search | npx | `EXA_API_KEY` *(optional)* |
 
 > **Note:** Keep max 10 MCPs active at once to preserve context window.
