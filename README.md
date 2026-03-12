@@ -39,14 +39,9 @@ A curated Claude Code setup script based on [everything-claude-code](https://git
 | github | npx | `GITHUB_PERSONAL_ACCESS_TOKEN` |
 | vercel | http | — |
 | supabase | npx | `SUPABASE_PROJECT_REF` |
-| cloudflare-docs | http | — |
-| cloudflare-workers-builds | http | — |
-| cloudflare-workers-bindings | http | — |
-| cloudflare-observability | http | — |
 | magic | npx | — |
 | firecrawl | npx | `FIRECRAWL_API_KEY` *(optional)* |
 | exa-web-search | npx | `EXA_API_KEY` *(optional)* |
-| insaits | python | `pip install insa-its` *(optional)* |
 
 > **Note:** Keep max 10 MCPs active at once to preserve context window.
 
